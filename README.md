@@ -1,1 +1,1 @@
-![hhuhu](http://baidu.com)
+[hhuhu](http://baidu.com)
